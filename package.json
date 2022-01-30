@@ -1,0 +1,27 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragav1196/NODE-JS-ZEN-TASKS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragav1196/NODE-JS-ZEN-TASKS/issues"
+  },
+  "homepage": "https://github.com/Ragav1196/NODE-JS-ZEN-TASKS#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "dotenv": "^14.3.2",
+    "nodemon": "^2.0.15"
+  }
+}
